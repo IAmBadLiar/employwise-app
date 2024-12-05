@@ -1,29 +1,6 @@
 # employwise-app
 
 
-This project is a React-based web application integrating with the Reqres API to perform user management functions. It includes authentication, paginated user listing, and functionalities to edit and delete users.
-
-## Features
-
-1. **Login Screen**:
-   - Users can log in using valid credentials.
-   - Stores the authentication token securely in local storage.
-
-2. **Paginated User List**:
-   - Displays a list of users with pagination.
-   - Includes client-side search functionality to filter users by name.
-
-3. **Edit and Delete Users**:
-   - Edit user details using a pre-filled form.
-   - Delete users and reflect changes dynamically.
-
-4. **Responsive Design**:
-   - Works well on both desktop and mobile devices.
-   - Styled using Bootstrap for better user experience.
-
-5. **Bonus Features**:
-   - Client-side search for user filtering.
-   - Hosted on Netlify for public access.
 
 ## Technologies Used
 
@@ -33,9 +10,38 @@ This project is a React-based web application integrating with the Reqres API to
 - Bootstrap
 - Reqres API
 
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/employwise-assignment.git
    cd employwise-assignment
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the application:
+   ```bash
+   npm start
+   ```
+
+4. Open the app in your browser at `http://localhost:3000`.
+
+## Deployment
+
+The application is hosted on Netlify. You can access it using the following link:
+[Live Application]((https://hilarious-peony-b33eee.netlify.app/))
+
+
+
+- Valid credentials for login are:
+  - Email: `eve.holt@reqres.in`
+  - Password: `cityslicka`
+
+
+
+
