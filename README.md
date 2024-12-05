@@ -1,4 +1,4 @@
-# employwise-app
+# #Employwise-app
 
 
 
@@ -8,7 +8,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/employwise-assignment.git
+   git clone https://github.com/<IAmBadLiar>/employwise-assignment.git
    cd employwise-assignment
    ```
 
