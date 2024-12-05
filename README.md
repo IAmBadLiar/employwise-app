@@ -27,7 +27,7 @@
 ## Deployment
 
 The application is hosted on Netlify. You can access it using the following link:
-[Live Application]((https://hilarious-peony-b33eee.netlify.app/))
+[Live Application](https://hilarious-peony-b33eee.netlify.app/)
 
 
 
