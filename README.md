@@ -2,13 +2,6 @@
 
 
 
-## Technologies Used
-
-- React
-- React Router
-- Axios
-- Bootstrap
-- Reqres API
 
 
 ## Installation
