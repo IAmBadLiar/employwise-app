@@ -8,7 +8,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IAmBadLiar/employwise-assignment.git
+   git clone https://github.com/IAmBadLiar/employwise-app.git
    cd employwise-assignment
    ```
 
